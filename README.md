@@ -1,6 +1,6 @@
 # CampusBite – React web app (step 1)
 
-Vite + React 18 + React Router 6 front end for the [CampusBite backend](../campusbite-backend).
+Vite + React 18 + React Router 6 front end for the [CampusBite backend](https://github.com/stormlex4all/campusbite-backend).
 
 > **Scope of this step: features 1, 2, 12 and 13 only**
 > 1. Accounts with roles (student, vendor, admin)
